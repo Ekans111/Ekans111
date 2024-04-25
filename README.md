@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @Ekans111
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently mastering **Blockchain**, Awesome!!!
+- 🌱 Also I’m **Blockchain** master, Awesome!!!
 - 💞️ I’m looking to collaborate on you through github
 
 

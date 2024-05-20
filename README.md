@@ -55,8 +55,8 @@ Markdown     1 hour          ▒░░░░░░░░░░░░░░░░
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-46a2f1?style=flat-square&logo=flutter&logoColor=white" /> 
-  <img alt="React Native" src="https://img.shields.io/badge/-ReactNative-007ACC?style=flat-square&logo=reactnative&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-FB542B?style=flat-square&logo=java&logoColor=white" />
+  <img alt="React Native" src="https://img.shields.io/badge/-ReactNative-007ACC?style=flat-square&logo=react-native&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-FB542B?style=flat-square&logo=Java&logoColor=white" />
   <img alt="Swift" src="https://img.shields.io/badge/-Swift-E34F26?style=flat-square&logo=swift&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />

@@ -3,7 +3,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
 
 - 👋 Hi, I’m @Ekans111
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web & Mobile Development
 - 🌱 Also I’m **Blockchain** master, Awesome!!!
 - 💞️ I’m looking to collaborate on you through github
 

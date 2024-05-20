@@ -54,7 +54,7 @@ Markdown     1 hour          ▒░░░░░░░░░░░░░░░░
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="ReactiveX" src="https://img.shields.io/badge/-RxJs-B7178C?style=flat-square&logo=reactivex&logoColor=white" />
-  <img alt="Flutter" src="[https://img.shields.io/badge/-Flutter-8DD6F9?style=flat-square&logo=webpack&logoColor=white](https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript)" /> 
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-46a2f1?style=flat-square&logo=flutter&logoColor=white" /> 
   <img alt="React Native" src="https://img.shields.io/badge/-ReactNative-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-FB542B?style=flat-square&logo=brave&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />

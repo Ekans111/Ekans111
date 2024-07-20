@@ -76,9 +76,10 @@ Markdown     1 hour          ▒░░░░░░░░░░░░░░░░
 
 <br>
 <h3>Where to find me</h3>
-<p><a href="https://github.com/Ekans111" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/aiyuki-kawano/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://t.me/hiccup2735" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/telegram-grey?style=for-the-badge&logo=telegram" /></a>
+<p><a href="https://github.com/Ekans111" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://t.me/hiccup2735" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/telegram-grey?style=for-the-badge&logo=telegram" /></a>
 </p>
 <!---
 Ekans111/Ekans111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/aiyuki-kawano/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 You can click the Preview link to take a look at your changes.
 --->

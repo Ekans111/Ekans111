@@ -8,7 +8,7 @@
   
 - 💼 Any freelance work? do reach, [email](mailto:ekans19950111@gmail.com) :)
 - 💬 Ask me about anything, i am happy to help;
-- 
+
 📊 **This week i spent my time on:**
 <!--START_SECTION:waka-->
 

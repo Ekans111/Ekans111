@@ -1,11 +1,8 @@
 - 👋 Hi, I’m @Ekans111
 - 👀 I’m interested in Web & Mobile Development
 - 🌱 Also I’m **Blockchain** master, Awesome!!!
+   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 - 💞️ I’m looking to collaborate on you through github
-
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
 - 💼 Any freelance work? do reach, [email](mailto:ekans19950111@gmail.com) :)
 - 💬 Ask me about anything, i am happy to help;
 

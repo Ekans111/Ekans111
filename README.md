@@ -17,9 +17,9 @@
 
 ```txt
 TypeScript   10 hours         █████████████████▒░░░░░░░   50 %
-JavaScript   3 hours          █████▓░░░░░░░░░░░░░░░░░░░   15 %
+Rust   3 hours                █████▓░░░░░░░░░░░░░░░░░░░   15 %
 Other        6 hours          █▓░░░░░░░░░░░░░░░░░░░░░░░   30 %
-Markdown     1 hour          ▒░░░░░░░░░░░░░░░░░░░░░░░░    5 %
+javascript     1 hour         ▒░░░░░░░░░░░░░░░░░░░░░░░░    5 %
 ```
 
 <!--END_SECTION:waka-->
